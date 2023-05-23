@@ -14,7 +14,7 @@ python-dotenv = "^0.21.0"
 Telethon = "^1.25.2"
 wget = "^3.2"
 Pillow = "^9.2.0"
-requests = "^2.28.1"
+requests = "^2.31.0"
 
 [tool.poetry.dev-dependencies]
 
